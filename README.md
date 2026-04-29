@@ -46,3 +46,9 @@ Assistive technology for visually impaired
 Smart reading devices
 Document digitization
 Industrial label reading
+
+---
+
+Authors
+Pavan Kumar Reddy V
+Team Members
